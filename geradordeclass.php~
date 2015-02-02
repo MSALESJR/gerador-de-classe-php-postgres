@@ -90,6 +90,7 @@ if (isset($_SESSION['tabela'])) {
             fclose($fp);
         }
     }
+	echo 'Classe gerada com sucesso !';
 }else {
     header('Location: index.php');
 }

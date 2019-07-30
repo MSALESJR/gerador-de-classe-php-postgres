@@ -3,7 +3,9 @@ Gera class para php a partir de um banco de dado postgres, as classes são basea
 
 
 git clone https://github.com/MSALESJR/gerador-de-classe-php-postgres.git
+
 cd gerador-de-classe-php-postgres
+
 php -S 0.0.0.0:8080
 
 
